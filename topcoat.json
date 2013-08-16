@@ -1,0 +1,286 @@
+[
+    {
+        "name": "Topcoat Header - Mobile Light",
+        "trigger": "tcheadml",
+        "usage": "",
+        "description": "Adds the CSS tag for Topcoat (Mobile - Light)",
+        "template":"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/topcoat-mobile-light.min.css\">"
+   },
+    {
+        "name": "Topcoat Header - Mobile Dark",
+        "trigger": "tcheadmd",
+        "usage": "",
+        "description": "Adds the CSS tag for Topcoat (Mobile - Dark)",
+        "template":"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/topcoat-mobile-dark.min.css\">"
+   },
+    {
+        "name": "Topcoat Header - Desktop Light",
+        "trigger": "tcheaddl",
+        "usage": "",
+        "description": "Adds the CSS tag for Topcoat (Desktop - Light)",
+        "template":"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/topcoat-desktop-light.min.css\">"
+   },
+    {
+        "name": "Topcoat Header - Desktop Dark",
+        "trigger": "tcheaddd",
+        "usage": "",
+        "description": "Adds the CSS tag for Topcoat (Desktop - Dark)",
+        "template":"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/topcoat-desktop-dark.min.css\">"
+   },
+    {
+        "name": "Topcoat Button",
+        "trigger": "tcbutton",
+        "usage": "",
+        "description": "Default Topcoat Button",
+        "template":"<button class=\"topcoat-button\">Button</button>"
+   },
+    {
+        "name": "Topcoat Button - Active",
+        "trigger": "tcbuttona",
+        "usage": "",
+        "description": "Active Topcoat Button",
+        "template":"<button class=\"topcoat-button is-active\">Button</button>"
+   },    {
+        "name": "Topcoat Button - Disabled",
+        "trigger": "tcbuttond",
+        "usage": "",
+        "description": "Disabled Topcoat Button",
+        "template":"<button class=\"topcoat-button is-disabled\">Button</button>"
+   },
+    {
+        "name": "Topcoat Quiet Button",
+        "trigger": "tcqbutton",
+        "usage": "",
+        "description": "Topcoat Quiet Button",
+        "template":"<button class=\"topcoat-button--quiet\">Button</button>"
+   },
+    {
+        "name": "Topcoat Quiet Button - Active",
+        "trigger": "tcqbuttona",
+        "usage": "",
+        "description": "Active Topcoat Quiet Button",
+        "template":"<button class=\"topcoat-button--quiet is-active\">Button</button>"
+   },    {
+        "name": "Topcoat Quiet Button - Disabled",
+        "trigger": "tcqbuttond",
+        "usage": "",
+        "description": "Disabled Topcoat Quiet Button",
+        "template":"<button class=\"topcoat-button--quiet is-disabled\">Button</button>"
+   },
+    {
+        "name": "Topcoat Large Button",
+        "trigger": "tclbutton",
+        "usage": "",
+        "description": "Topcoat Large Button",
+        "template":"<button class=\"topcoat-button--large\">Button</button>"
+   },
+    {
+        "name": "Topcoat Large Button - Active",
+        "trigger": "tclbuttona",
+        "usage": "",
+        "description": "Active Topcoat Large Button",
+        "template":"<button class=\"topcoat-button--large is-active\">Button</button>"
+   },    {
+        "name": "Topcoat Large Button - Disabled",
+        "trigger": "tclbuttond",
+        "usage": "",
+        "description": "Disabled Topcoat Large Button",
+        "template":"<button class=\"topcoat-button--large is-disabled\">Button</button>"
+   },
+    {
+        "name": "Topcoat Large Quiet Button",
+        "trigger": "tclqbutton",
+        "usage": "",
+        "description": "Topcoat Large Quiet Button",
+        "template":"<button class=\"topcoat-button--large--quiet\">Button</button>"
+   },
+    {
+        "name": "Topcoat Large Quiet Button - Active",
+        "trigger": "tclqbuttona",
+        "usage": "",
+        "description": "Active Topcoat Large Quiet Button",
+        "template":"<button class=\"topcoat-button--large--quiet is-active\">Button</button>"
+   },
+   {
+        "name": "Topcoat Large Quiet Button - Disabled",
+        "trigger": "tclqbuttond",
+        "usage": "",
+        "description": "Disabled Topcoat Large Quiet Button",
+        "template":"<button class=\"topcoat-button--large--quiet is-disabled\">Button</button>"
+   },
+    {
+        "name": "Topcoat Call To Action Button",
+        "trigger": "tcctabutton",
+        "usage": "",
+        "description": "Topcoat Call to Action Button",
+        "template":"<button class=\"topcoat-button--cta\">Button</button>"
+   },
+    {
+        "name": "Topcoat Call To Action Button - Active",
+        "trigger": "tcctabuttona",
+        "usage": "",
+        "description": "Active Topcoat Call to Action Button",
+        "template":"<button class=\"topcoat-button--cta is-active\">Button</button>"
+   },    {
+        "name": "Topcoat Call to Action Button - Disabled",
+        "trigger": "tcctabuttond",
+        "usage": "",
+        "description": "Disabled Topcoat Call to Action Button",
+        "template":"<button class=\"topcoat-button--cta is-disabled\">Button</button>"
+   },
+    {
+        "name": "Topcoat Large Call To Action Button",
+        "trigger": "tclctabutton",
+        "usage": "",
+        "description": "Topcoat Large Call to Action Button",
+        "template":"<button class=\"topcoat-button--large--cta\">Button</button>"
+   },
+    {
+        "name": "Topcoat Large Call To Action Button - Active",
+        "trigger": "tclctabuttona",
+        "usage": "",
+        "description": "Active Topcoat Large Call to Action Button",
+        "template":"<button class=\"topcoat-button--large--cta is-active\">Button</button>"
+   },
+   {
+        "name": "Topcoat Large Call to Action Button - Disabled",
+        "trigger": "tclctabuttond",
+        "usage": "",
+        "description": "Disabled Topcoat Large Call to Action Button",
+        "template":"<button class=\"topcoat-button--large--cta is-disabled\">Button</button>"
+   },
+   {
+        "name": "Topcoat Checkbox",
+        "trigger": "tccb",
+        "usage": "",
+        "description": "Topcoat Checkbox",
+        "template":"topcoat_cb.snippet"
+   },
+   {
+        "name": "Topcoat Checkbox - Active",
+        "trigger": "tccba",
+        "usage": "",
+        "description": "Topcoat Checkbox - Active",
+        "template":"topcoat_cba.snippet"
+   },
+   {
+        "name": "Topcoat Checkbox - Focused",
+        "trigger": "tccbf",
+        "usage": "",
+        "description": "Topcoat Checkbox - Focused",
+        "template":"topcoat_cbf.snippet"
+   },
+   {
+        "name": "Topcoat Checkbox - Disabled",
+        "trigger": "tccbd",
+        "usage": "",
+        "description": "Topcoat Checkbox - Disabled",
+        "template":"topcoat_cbd.snippet"
+   },
+   {
+        "name": "Topcoat List",
+        "trigger": "tcl",
+        "usage": "",
+        "description": "Topcoat List",
+        "template":"topcoat_list.snippet"
+   },
+   {
+        "name": "Topcoat Navigation Bar",
+        "trigger": "tcnb",
+        "usage": "",
+        "description": "Topcoat Navigation Bar",
+        "template":"topcoat_navbar.snippet"
+   },
+   {
+        "name": "Topcoat Radio Button (No Label)",
+        "trigger": "tcrb",
+        "usage": "",
+        "description": "Topcoat Radio Button (No Label)",
+        "template":"topcoat_rb.snippet"
+   },
+   {
+        "name": "Topcoat Radio Button (Left Label)",
+        "trigger": "tcrbl",
+        "usage": "",
+        "description": "Topcoat Radio Button (Left Label)",
+        "template":"topcoat_rbl.snippet"
+   },
+   {
+        "name": "Topcoat Radio Button (Right Label)",
+        "trigger": "tcrbr",
+        "usage": "",
+        "description": "Topcoat Radio Button (Right Label)",
+        "template":"topcoat_rbr.snippet"
+   },
+   {
+        "name": "Topcoat Search Field",
+        "trigger": "tcs",
+        "usage": "",
+        "description": "Topcoat Search Field",
+        "template":"<input type=\"search\" value=\"\" placeholder=\"search\" class=\"topcoat-search-input\">"
+   },
+   {
+        "name": "Topcoat Search Field (Disabled)",
+        "trigger": "tcsd",
+        "usage": "",
+        "description": "Topcoat Search Field (Disabled)",
+        "template":"<input type=\"search\" value=\"\" placeholder=\"search\" class=\"topcoat-search-input is-disabled\">"
+   },
+      {
+        "name": "Topcoat Large Search Field",
+        "trigger": "tcls",
+        "usage": "",
+        "description": "Topcoat Large Search Field",
+        "template":"<input type=\"search\" value=\"\" placeholder=\"search\" class=\"topcoat-search-input--large\">"
+   },
+   {
+        "name": "Topcoat Large Search Field (Disabled)",
+        "trigger": "tcsd",
+        "usage": "",
+        "description": "Topcoat Large Search Field (Disabled)",
+        "template":"<input type=\"search\" value=\"\" placeholder=\"search\" class=\"topcoat-search-input--large is-disabled\">"
+   },
+   {
+        "name": "Topcoat Input Field",
+        "trigger": "tci",
+        "usage": "",
+        "description": "Topcoat Input Field",
+        "template":"<input type=\"text\" value=\"\" placeholder=\"text\" class=\"topcoat-text-input\">"
+   },
+   {
+        "name": "Topcoat Input Field (Disabled)",
+        "trigger": "tcid",
+        "usage": "",
+        "description": "Topcoat Input Field (Disabled)",
+        "template":"<input type=\"text\" value=\"\" placeholder=\"text\" class=\"topcoat-text-input is-disabled\">"
+   },   
+   {
+        "name": "Topcoat Large Input Field",
+        "trigger": "tcli",
+        "usage": "",
+        "description": "Topcoat Large Input Field",
+        "template":"<input type=\"text\" value=\"\" placeholder=\"text\" class=\"topcoat-text-input--large\">"
+   },
+   {
+        "name": "Topcoat Large Input Field (Disabled)",
+        "trigger": "tclid",
+        "usage": "",
+        "description": "Topcoat Large Input Field (Disabled)",
+        "template":"<input type=\"text\" value=\"\" placeholder=\"text\" class=\"topcoat-text-input--large is-disabled\">"
+   }, 
+   {
+        "name": "Topcoat Textarea",
+        "trigger": "tcta",
+        "usage": "",
+        "description": "Topcoat Textarea",
+        "template":"<textarea class=\"topcoat-textarea\" rows=\"6\" cols=\"36\" placeholder=\"Textarea\"></textarea>"
+   },
+   {
+        "name": "Topcoat Large Textarea",
+        "trigger": "tclta",
+        "usage": "",
+        "description": "Topcoat Large Textarea",
+        "template":"<textarea class=\"topcoat-textarea--large\" rows=\"6\" cols=\"36\" placeholder=\"Textarea\"></textarea>"
+   }
+]
+
